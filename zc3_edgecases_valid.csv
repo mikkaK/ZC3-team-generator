@@ -1,0 +1,61 @@
+﻿Completion time,Company Email (firstname.name@accenture.com),Email,Name,Gender,Preferred distance,Ambition,Remarks,Swimmer (Company Email),Biker (Company Email),Runner (Company Email),Priority.Swimmer,Priority.Biker,Priority.Runner
+06/28/26 08:00,person001@accenture.com,,Person 001,f,"Olympic (1.5km Swim, 40km Bike, 10km Run)",Competitive,,,,,Prio 2,Prio 3,Prio 1
+06/28/26 08:05,person002@accenture.com,,Person 002,x,"Olympic (1.5km Swim, 40km Bike, 10km Run)",Competitive,"Custom team: swimmer=me, biker=person003, runner=person004",,person003@accenture.com,person004@accenture.com,Prio 2,Prio 1,Prio 3
+06/28/26 08:10,person003@accenture.com,,Person 003,m,"Olympic (1.5km Swim, 40km Bike, 10km Run)",Competitive,Custom team with person002/person004,person002@accenture.com,,,Prio 2,Prio 3,Prio 1
+06/28/26 08:15,person004@accenture.com,,Person 004,m,"Olympic (1.5km Swim, 40km Bike, 10km Run)",Competitive,Custom team with person002/person003,,,,Prio 1,Prio 2,Prio 3
+06/28/26 08:20,person005@accenture.com,,Person 005,m,"Olympic (1.5km Swim, 40km Bike, 10km Run)",Fun,,,,,Prio 3,Prio 2,Prio 1
+06/28/26 08:25,person006@accenture.com,,Person 006,f,"Olympic (1.5km Swim, 40km Bike, 10km Run)",Competitive,,,,,Prio 2,Prio 3,Prio 1
+06/28/26 08:30,person007@accenture.com,,Person 007,f,"Olympic (1.5km Swim, 40km Bike, 10km Run)",Fun,,,,,Prio 1,Prio 2,Prio 3
+06/28/26 08:35,person008@accenture.com,,Person 008,x,Both (Sprint & Olympic),Both,,,,,Prio 3,Prio 2,Prio 1
+06/28/26 08:40,person009@accenture.com,,Person 009,x,"Olympic (1.5km Swim, 40km Bike, 10km Run)",Competitive,,,,,Prio 1,Prio 2,Prio 3
+06/28/26 08:45,person010@accenture.com,,Person 010,m,"Olympic (1.5km Swim, 40km Bike, 10km Run)",Both,"Have runner teammate (person011), need one more",,,person011@accenture.com,Prio 2,Prio 1,Prio 3
+06/28/26 08:50,person011@accenture.com,,Person 011,m,Both (Sprint & Olympic),Both,Teamed with person010,,,,Prio 3,Prio 2,Prio 1
+06/28/26 08:55,person012@accenture.com,,Person 012,f,"Olympic (1.5km Swim, 40km Bike, 10km Run)",Fun,,,,,Prio 3,Prio 2,Prio 1
+06/28/26 09:00,person013@accenture.com,,Person 013,x,"Olympic (1.5km Swim, 40km Bike, 10km Run)",Fun,,,,,Prio 2,Prio 1,Prio 3
+06/28/26 09:05,person014@accenture.com,,Person 014,x,"Olympic (1.5km Swim, 40km Bike, 10km Run)",Competitive,,,,,Prio 2,Prio 3,Prio 1
+06/28/26 09:10,person015@accenture.com,,Person 015,x,"Olympic (1.5km Swim, 40km Bike, 10km Run)",Competitive,,,,,Prio 2,Prio 1,Prio 3
+06/28/26 09:15,person016@accenture.com,,Person 016,m,"Olympic (1.5km Swim, 40km Bike, 10km Run)",Both,,,,,Prio 2,Prio 3,Prio 1
+06/28/26 09:20,person017@accenture.com,,Person 017,m,Both (Sprint & Olympic),Fun,,,,,Prio 3,Prio 2,Prio 1
+06/28/26 09:25,person018@accenture.com,,Person 018,x,"Olympic (1.5km Swim, 40km Bike, 10km Run)",Fun,,,,,Prio 3,Prio 1,Prio 2
+06/28/26 09:30,person019@accenture.com,,Person 019,x,"Olympic (1.5km Swim, 40km Bike, 10km Run)",Competitive,,,,,Prio 1,Prio 2,Prio 3
+06/28/26 09:35,person020@accenture.com,,Person 020,x,Both (Sprint & Olympic),Fun,,,,,Prio 1,Prio 3,Prio 2
+06/28/26 09:40,person021@accenture.com,,Person 021,x,"Olympic (1.5km Swim, 40km Bike, 10km Run)",Both,No-Go runner,,,,Prio 1,Prio 2,No-Go
+06/28/26 09:45,person022@accenture.com,,Person 022,m,Both (Sprint & Olympic),Both,,,,,Prio 2,Prio 1,Prio 3
+06/28/26 09:50,person023@accenture.com,,Person 023,m,Both (Sprint & Olympic),Fun,,,,,Prio 1,Prio 3,Prio 2
+06/28/26 09:55,person024@accenture.com,,Person 024,f,"Olympic (1.5km Swim, 40km Bike, 10km Run)",Fun,,,,,Prio 2,Prio 1,Prio 3
+06/28/26 10:00,person025@accenture.com,,Person 025,x,"Olympic (1.5km Swim, 40km Bike, 10km Run)",Competitive,,,,,Prio 1,Prio 3,Prio 2
+06/28/26 10:05,person026@accenture.com,,Person 026,f,"Olympic (1.5km Swim, 40km Bike, 10km Run)",Fun,,,,,Prio 3,Prio 2,Prio 1
+06/28/26 10:10,person027@accenture.com,,Person 027,x,Both (Sprint & Olympic),Both,,,,,Prio 3,Prio 2,Prio 1
+06/28/26 10:15,person028@accenture.com,,Person 028,m,Both (Sprint & Olympic),Fun,,,,,Prio 3,Prio 2,Prio 1
+06/28/26 10:20,person029@accenture.com,,Person 029,x,Both (Sprint & Olympic),Fun,,,,,Prio 3,Prio 2,Prio 1
+06/28/26 10:25,person030@accenture.com,,Person 030,f,"Sprint (0.75km Swim, 20km Bike, 5km Run)",Competitive,,,,,Prio 3,Prio 1,Prio 2
+06/28/26 10:30,person031@accenture.com,,Person 031,m,"Sprint (0.75km Swim, 20km Bike, 5km Run)",Both,,,,,Prio 3,Prio 2,Prio 1
+06/28/26 10:35,person032@accenture.com,,Person 032,x,Both (Sprint & Olympic),Both,,,,,Prio 2,Prio 3,Prio 1
+06/28/26 10:40,person033@accenture.com,,Person 033,m,"Sprint (0.75km Swim, 20km Bike, 5km Run)",Both,,,,,Prio 1,Prio 3,Prio 2
+06/28/26 10:45,person034@accenture.com,,Person 034,x,Both (Sprint & Olympic),Both,No-Go swimmer,,,,No-Go,Prio 1,Prio 3
+06/28/26 10:50,person035@accenture.com,,Person 035,x,Both (Sprint & Olympic),Fun,,,,,Prio 1,Prio 2,Prio 3
+06/28/26 10:55,person036@accenture.com,,Person 036,m,"Sprint (0.75km Swim, 20km Bike, 5km Run)",Fun,,,,,Prio 2,Prio 3,Prio 1
+06/28/26 11:00,person037@accenture.com,,Person 037,x,"Sprint (0.75km Swim, 20km Bike, 5km Run)",Competitive,,,,,Prio 2,Prio 3,Prio 1
+06/28/26 11:05,person038@accenture.com,,Person 038,m,"Sprint (0.75km Swim, 20km Bike, 5km Run)",Both,,,,,Prio 2,Prio 3,Prio 1
+06/28/26 11:10,person039@accenture.com,,Person 039,m,Both (Sprint & Olympic),Both,,,,,Prio 2,Prio 1,Prio 3
+06/28/26 11:15,person040@accenture.com,,Person 040,x,"Sprint (0.75km Swim, 20km Bike, 5km Run)",Fun,"Have biker teammate (person041), need one more",,person041@accenture.com,,Prio 3,Prio 2,Prio 1
+06/28/26 11:20,person041@accenture.com,,Person 041,f,"Sprint (0.75km Swim, 20km Bike, 5km Run)",Fun,Teamed with person040,,,,Prio 2,Prio 3,Prio 1
+06/28/26 11:25,person042@accenture.com,,Person 042,f,"Sprint (0.75km Swim, 20km Bike, 5km Run)",Fun,,,,,Prio 1,Prio 3,Prio 2
+06/28/26 11:30,person043@accenture.com,,Person 043,x,Both (Sprint & Olympic),Competitive,,,,,Prio 2,Prio 1,Prio 3
+06/28/26 11:35,person044@accenture.com,,Person 044,m,"Sprint (0.75km Swim, 20km Bike, 5km Run)",Both,,,,,Prio 2,Prio 3,Prio 1
+06/28/26 11:40,person045@accenture.com,,Person 045,f,"Sprint (0.75km Swim, 20km Bike, 5km Run)",Fun,,,,,Prio 3,Prio 2,Prio 1
+06/28/26 11:45,person046@accenture.com,,Person 046,m,"Sprint (0.75km Swim, 20km Bike, 5km Run)",Both,,,,,Prio 3,Prio 1,Prio 2
+06/28/26 11:50,person047@accenture.com,,Person 047,m,"Sprint (0.75km Swim, 20km Bike, 5km Run)",Both,,,,,Prio 2,Prio 3,Prio 1
+06/28/26 11:55,person048@accenture.com,,Person 048,m,"Sprint (0.75km Swim, 20km Bike, 5km Run)",Fun,,,,,Prio 3,Prio 1,Prio 2
+06/28/26 12:00,person049@accenture.com,,Person 049,f,"Sprint (0.75km Swim, 20km Bike, 5km Run)",Competitive,,,,,Prio 1,Prio 3,Prio 2
+06/28/26 12:05,person050@accenture.com,,Person 050,x,"Sprint (0.75km Swim, 20km Bike, 5km Run)",Fun,,,,,Prio 1,Prio 2,Prio 3
+06/28/26 12:10,person051@accenture.com,,Person 051,m,"Sprint (0.75km Swim, 20km Bike, 5km Run)",Competitive,,,,,Prio 2,Prio 1,Prio 3
+06/28/26 12:15,person052@accenture.com,,Person 052,x,Both (Sprint & Olympic),Competitive,,,,,Prio 3,Prio 1,Prio 2
+06/28/26 12:20,person053@accenture.com,,Person 053,m,"Sprint (0.75km Swim, 20km Bike, 5km Run)",Fun,,,,,Prio 2,Prio 3,Prio 1
+06/28/26 12:25,person054@accenture.com,,Person 054,m,"Sprint (0.75km Swim, 20km Bike, 5km Run)",Competitive,,,,,Prio 2,Prio 1,Prio 3
+06/28/26 12:30,person055@accenture.com,,Person 055,m,"Sprint (0.75km Swim, 20km Bike, 5km Run)",Competitive,,,,,Prio 1,Prio 3,Prio 2
+06/28/26 12:35,person056@accenture.com,,Person 056,x,Both (Sprint & Olympic),Competitive,,,,,Prio 3,Prio 1,Prio 2
+06/28/26 12:40,person057@accenture.com,,Person 057,x,"Sprint (0.75km Swim, 20km Bike, 5km Run)",Competitive,,,,,Prio 1,Prio 3,Prio 2
+06/28/26 12:45,person058@accenture.com,,Person 058,m,"Sprint (0.75km Swim, 20km Bike, 5km Run)",Both,,,,,Prio 3,Prio 2,Prio 1
+,person059@accenture.com,,Person 059,m,"Sprint (0.75km Swim, 20km Bike, 5km Run)",Fun,Missing completion time (should sort last),,,,Prio 2,Prio 3,Prio 1
+06/28/26 12:55,person060@accenture.com,,Person 060,f,"Sprint (0.75km Swim, 20km Bike, 5km Run)",Competitive,,,,,Prio 2,Prio 3,Prio 1
